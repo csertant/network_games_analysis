@@ -2,7 +2,7 @@ matplotlib==3.5.3
 numpy==1.23.2
 psycopg2==2.9.3
 pycairo==1.21.0
-igraph==0.9.11
+igraph==0.10.1
 requests==2.28.1
 toml==0.10.2
 urllib3==1.26.12
