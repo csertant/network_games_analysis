@@ -1,5 +1,5 @@
 matplotlib==3.6.3
-numpy==1.24.1
+numpy==1.24.2
 psycopg2==2.9.5
 pycairo==1.23.0
 igraph==0.10.4
