@@ -3,6 +3,6 @@ numpy==1.24.3
 psycopg2==2.9.6
 pycairo==1.23.0
 igraph==0.10.4
-requests==2.31.0
+requests==2.32.2
 toml==0.10.2
 urllib3==2.0.7
